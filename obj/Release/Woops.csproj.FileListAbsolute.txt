@@ -1,0 +1,15 @@
+C:\Users\matha\source\repos\Woops\bin\Release\Woops.exe.config
+C:\Users\matha\source\repos\Woops\bin\Release\Woops.exe
+C:\Users\matha\source\repos\Woops\bin\Release\Woops.pdb
+C:\Users\matha\source\repos\Woops\obj\Release\Woops.csproj.AssemblyReference.cache
+C:\Users\matha\source\repos\Woops\obj\Release\MainWindow.g.cs
+C:\Users\matha\source\repos\Woops\obj\Release\App.g.cs
+C:\Users\matha\source\repos\Woops\obj\Release\Woops_MarkupCompile.cache
+C:\Users\matha\source\repos\Woops\obj\Release\Woops_MarkupCompile.lref
+C:\Users\matha\source\repos\Woops\obj\Release\MainWindow.baml
+C:\Users\matha\source\repos\Woops\obj\Release\Woops.g.resources
+C:\Users\matha\source\repos\Woops\obj\Release\Woops.Properties.Resources.resources
+C:\Users\matha\source\repos\Woops\obj\Release\Woops.csproj.GenerateResource.cache
+C:\Users\matha\source\repos\Woops\obj\Release\Woops.csproj.CoreCompileInputs.cache
+C:\Users\matha\source\repos\Woops\obj\Release\Woops.exe
+C:\Users\matha\source\repos\Woops\obj\Release\Woops.pdb
